@@ -1,0 +1,25 @@
+@startuml
+'https://plantuml.com/sequence-diagram
+
+
+class StorageApp{
+Launch Sequence
+init .fxml "mainmenu.fxml
+}
+class Controller{
+Controller = brains
+-add/delete/edit/save functionality
+-firelink shrine
+}
+class Inventory{
+framework for tableView
+functionality to loadList functionality
+initiates:
+- itemName
+- itemSerial
+-itemPrice
+}
+
+Inventory .> Controller
+Controller .>StorageApp
+@enduml

@@ -1,20 +1,55 @@
 
-
-java:S1186
-"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(…ÿ¥‚8¿Ò¬ÙÓ/
-£
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÃÚ‹çùÿÿÿÿ8“ó±ÙÓ/
-£
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ëè–áıÿÿÿÿ8İŸ²ÙÓ/
-
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ºªİ8§È²ÙÓ/
-£
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ó¾áùÿÿÿÿ8äé²ÙÓ/
-£
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(éÖ¼Ûşÿÿÿÿ8¡…³ÙÓ/
-£
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ğ¹˜üÿÿÿÿ8¦†ÁÙÓ/
-O
-java:S1128"-Remove this unused import 'javafx.fxml.FXML'.(ÃÚ¢„şÿÿÿÿ8ä©½ÙÓ/
+a
+java:S1659,"FDeclare "itemPrice" and all following declarations on a separate line.(÷ƒÔÊøÿÿÿÿ
+V	java:S1253"<This block of commented-out lines of code should be removed.(•‘İŸüÿÿÿÿ
+L
+java:S1172<"1Remove this unused method parameter "mouseEvent".(ÑëúŸıÿÿÿÿ
+T
+java:S1117?"9Rename "stage" which hides the field declared at line 48.(áóíûÿÿÿÿ
+\	java:S899H"BDo something with the "boolean" value returned by "createNewFile".(Ğ’Íùÿÿÿÿ
+G
+java:S1172K"1Remove this unused method parameter "mouseEvent".(ô«å§
+T
+java:S1117N"9Rename "stage" which hides the field declared at line 48.(áóíûÿÿÿÿ
+‚
+java:S1130S"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(„Ø¶í
+S	java:S106["9Replace this use of System.out or System.err by a logger.(Åö¤÷üÿÿÿÿ
+N	java:S106]"9Replace this use of System.out or System.err by a logger.(¯°
+L
+java:S1172b"1Remove this unused method parameter "mouseEvent".(©Çû¡ıÿÿÿÿ
+T
+java:S1117e"9Rename "stage" which hides the field declared at line 48.(áóíûÿÿÿÿ
+i
+java:S4042o"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(¨ı¦™øÿÿÿÿ
+S	java:S106p"9Replace this use of System.out or System.err by a logger.(§û‰øÿÿÿÿ
+S	java:S106r"9Replace this use of System.out or System.err by a logger.(­äÚ—şÿÿÿÿ
+G
+java:S1172x"1Remove this unused method parameter "mouseEvent".(ºªİ
 Y
-java:S1128"7Remove this unused import 'javafx.scene.control.Label'.(ö²­ÿÿÿÿÿ8ä©½ÙÓ/
+java:S1854‹"=Remove this useless assignment to local variable "inventory".(ğË¹«ùÿÿÿÿ
+H
+java:S1172ƒ"1Remove this unused method parameter "mouseEvent".(ó²Ş€
+T	java:S106‡"9Replace this use of System.out or System.err by a logger.(´İîªşÿÿÿÿ
+M
+java:S1172 "1Remove this unused method parameter "mouseEvent".(Íò¯´ûÿÿÿÿ
+T	java:S106¤"9Replace this use of System.out or System.err by a logger.(´İîªşÿÿÿÿ
+i
+java:S6204®"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(œçÖß
+M
+java:S1172½"1Remove this unused method parameter "mouseEvent".(‚ñÓÇÿÿÿÿÿ
+=
+java:S1659¾"&Declare "allItems" on a separate line.(«´ñæ
+W
+java:S1128"ARemove this unused import 'javafx.beans.property.StringProperty'.(Å‘ï±
+L
+java:S1128"6Remove this unused import 'javafx.fxml.Initializable'.(™ÎùÆ
+a
+java:S1128"KRemove this unused import 'javafx.scene.control.cell.PropertyValueFactory'.(àÎ¬õ
+D
+java:S1128")Remove this unused import 'java.net.URL'.(ñìÁ„üÿÿÿÿ
+m
+java:S1192@"RDefine a constant instead of duplicating this literal "Inventory Manager" 3 times.(ÍÅ±³şÿÿÿÿ
+b
+java:S1192G"GDefine a constant instead of duplicating this literal "Lists/" 4 times.(éÕ±£øÿÿÿÿ
+_
+java:S2095‰"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(´ˆâë
