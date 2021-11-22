@@ -1,7 +1,9 @@
 # Furry-app2
 
 Add Inventory - The button creates a new menu prompting for a file name, you can exit this menu by entering a name and clicking 'Ok' or 'Cancel' if you want to leave without commiting. 
-Remove List - Prompts for a file name to delete, exit with 'Ok' to commit change or 'Cancel' to leave without commiting a change 
+
+Remove List - Prompts for a file name to delete, exit with 'Ok' to commit change or 'Cancel' to leave without commiting a change
+
 Edit List - Prompts for a file name and a new file name to change the original, exit with 'Ok' to commit change or 'Cancel to leave without commiting a change
 
 Load Existing Inventory - Opens fileChooser, select textfile, loads into 'Items' display.
